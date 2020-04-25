@@ -33,6 +33,7 @@
                color: '#fff',
                backgroundColor: '#333',
                position: 'fixed',
+               zIndex: '999',
                bottom: '100px',
                right: '50px',
                cursor: 'pointer',
